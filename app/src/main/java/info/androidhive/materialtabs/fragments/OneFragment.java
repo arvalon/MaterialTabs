@@ -1,14 +1,15 @@
 package info.androidhive.materialtabs.fragments;
 
 import android.os.Bundle;
-import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+import androidx.fragment.app.Fragment;
+
 import info.androidhive.materialtabs.R;
 
-public class OneFragment extends Fragment{
+public class OneFragment extends Fragment {
 
     public OneFragment() {
         // Required empty public constructor
